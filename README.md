@@ -161,7 +161,7 @@ If you have suggestions for improvements or new features, feel free to fork the 
 
 Computer Science student and Flutter developer passionate about creating intuitive and practical mobile applications.
 
-GitHub: **@YOUR_USERNAME**
+GitHub: **@mritaamaral**
 
 ---
 
