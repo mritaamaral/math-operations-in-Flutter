@@ -138,14 +138,12 @@ This project was developed to practice and improve knowledge in:
 
 - [ ] Calculation history
 - [ ] Dark mode
-- [ ] Scientific calculator
 - [ ] Unit converter
 - [ ] Currency converter
 - [ ] Improved UI/UX
 - [ ] State management (Provider/BLoC)
 - [ ] Unit tests
 - [ ] Widget tests
-- [ ] Internationalization (i18n)
 
 ---
 
