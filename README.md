@@ -19,7 +19,7 @@ A simple Flutter application developed to practice mobile development concepts, 
 
 # 📖 About
 
-**Matematicando** is a Flutter application created as an academic project to strengthen core mobile development skills.
+**Matematicando** is a Flutter application (my first one) created as an academic project to strengthen core mobile development skills.
 
 The app provides a clean and intuitive interface where users can perform basic mathematical operations and calculate their **Body Mass Index (BMI)**.
 
