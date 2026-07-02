@@ -52,19 +52,19 @@ During the development of this project, the following concepts were explored:
 
 ### Home Screen
 
-> *Add a screenshot here.*
+<img width="232" height="533" alt="image" src="https://github.com/user-attachments/assets/e66e53c3-6b83-4ca4-9880-dcce96167c43" />
 
 ---
 
 ### Mathematical Operations
 
-> *Add a screenshot here.*
+<img width="234" height="532" alt="image" src="https://github.com/user-attachments/assets/0973b24e-016a-410f-ab6f-08f323ba5829" />
 
 ---
 
 ### BMI Calculator
 
-> *Add a screenshot here.*
+<img width="232" height="528" alt="image" src="https://github.com/user-attachments/assets/9d666028-7f97-4d02-a0f7-7921bdf8cbe2" />
 
 ---
 
