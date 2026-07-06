@@ -97,7 +97,7 @@ lib/
 Clone the repository
 
 ```bash
-git clone https://github.com/mritaamaral/operacoes_matematicas.git
+git clone https://github.com/mritaamaral/math-operations-in-Flutter.git
 ```
 
 Navigate to the project folder
